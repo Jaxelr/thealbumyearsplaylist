@@ -15,7 +15,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1975 |  |
 | 1976 | Episode 06 |
 | 1977 |  |
-| 1978 |  |
+| 1978 | Episode 18/19 |
 | 1979 | Episode 07/08 |
 | 1980 | Episode 01 |
 | 1981 | Episode 13 |
