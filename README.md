@@ -24,7 +24,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1984 | Episode 04 |
 | 1985 |  |
 | 1986 | Episode 16 |
-| 1987 |  |
+| 1987 | Episode 34/35/36/37 |
 | 1988 |  |
 | 1989 | Episode 09 |
 | 1990 |  |
