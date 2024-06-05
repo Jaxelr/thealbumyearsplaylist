@@ -22,7 +22,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1982 |  |
 | 1983 | Episode 21/22 |
 | 1984 | Episode 04 |
-| 1985 | Episode 46 |
+| 1985 | Episode 46/47/48 |
 | 1986 | Episode 16 |
 | 1987 | Episode 34/35/36/37 |
 | 1988 |  |
