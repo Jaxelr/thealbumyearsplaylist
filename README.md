@@ -5,7 +5,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | Year | Episode |
 | :--: | :--: |
 | 1967 | Episode 05 |
-| 1968 |  |
+| 1968 | Episode 42 |
 | 1969 | Episode 10 |
 | 1970 |  |
 | 1971 |  |
