@@ -9,22 +9,22 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1969 | Episode 10 |
 | 1970 |  |
 | 1971 |  |
-| 1972 |  |
+| 1972 | Episode 51 |
 | 1973 | Episode 02 |
 | 1974 | Episode 12 |
 | 1975 |  |
 | 1976 | Episode 06 |
-| 1977 | Episode 24/25/28/29/30/31/32/33 |
-| 1978 | Episode 18/19/20 |
-| 1979 | Episode 07/08 |
+| 1977 | Episode 24-33 |
+| 1978 | Episode 18-20 |
+| 1979 | Episode 07-08 |
 | 1980 | Episode 01 |
 | 1981 | Episode 13 |
 | 1982 |  |
-| 1983 | Episode 21/22 |
+| 1983 | Episode 21-22 |
 | 1984 | Episode 04 |
-| 1985 | Episode 46/47/48/49/50 |
+| 1985 | Episode 46-50 |
 | 1986 | Episode 16 |
-| 1987 | Episode 34/35/36/37 |
+| 1987 | Episode 34-37 |
 | 1988 |  |
 | 1989 | Episode 09 |
 | 1990 |  |
@@ -37,7 +37,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1997 |  |
 | 1998 | Episode 11 |
 | 1999 |  |
-| 2000 | Episode 38/39/40/41 |
+| 2000 | Episode 38-41 |
 | 2001 | Episode 14 |
 | 2002 |  |
 | 2003 |  |
