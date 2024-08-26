@@ -44,3 +44,5 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 2004 |  |
 | 2005 |  |
 | 2006 | Episode 15 |
+
+As a shameless self promotion, I must comment that I also keep track of all these albums on my [spotify profile](https://open.spotify.com/user/jaxelr)
