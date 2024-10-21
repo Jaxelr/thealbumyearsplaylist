@@ -9,7 +9,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1969 | Episode 10 |
 | 1970 |  |
 | 1971 |  |
-| 1972 | Episode 51-57 |
+| 1972 | Episode 51-56 |
 | 1973 | Episode 02 |
 | 1974 | Episode 12 |
 | 1975 |  |
@@ -19,7 +19,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1979 | Episode 07-08 |
 | 1980 | Episode 01 |
 | 1981 | Episode 13 |
-| 1982 | Episode 57 |
+| 1982 | Episode 57-59 |
 | 1983 | Episode 21-22 |
 | 1984 | Episode 04 |
 | 1985 | Episode 46-50 |
