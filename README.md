@@ -31,7 +31,7 @@ Playlist related to the [Tim Bowness/Steven Wilson podcast](https://anchor.fm/th
 | 1991 |  |
 | 1992 | Episode 03 |
 | 1993 |  |
-| 1994 |  |
+| 1994 | Episode 63 |
 | 1995 | Episode 23 |
 | 1996 |  |
 | 1997 |  |
